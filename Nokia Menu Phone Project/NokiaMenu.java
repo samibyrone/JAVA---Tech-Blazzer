@@ -10,8 +10,8 @@ public class NokiaMenu {
 		int menuList = 0;	
 
 		System.out.println(" You are Welcome to Nokia Menu-List " );
-	//	System.out.println(" Kindly enter your name: ");
-	//	String myName = input.next( " " );
+		System.out.println(" Kindly enter your name: ");
+		String myName = input.next( " " );
 
 			System.out.println(" Enter number 0 to show list: ");
 			System.out.println(" Press -1 to quit: ");
